@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/athiwatpootongjai/Downloads/native-base-example-github-app/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
